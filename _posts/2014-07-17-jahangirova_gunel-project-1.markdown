@@ -5,7 +5,7 @@ layout: default
 modal-id: 1 
 date: 2014-07-16
 img: gunel_jahangirova.png
-thumbnail: gunel_jahangirova.png
+thumbnail: gunel_jahangirova_thumb.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
