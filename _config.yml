@@ -1,17 +1,16 @@
 url: https://y7kim.github.io
-baseurl: /phdfbk/ 
+baseurl: /phdfbk/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+title: Become a PhD student in FBK 
+email: napo@fbk.eu
+description: "FBK-ICT offers a unique stimulating and exciting environment to its PhD students. PhD students supervised by FBK-ICT researchers conduct their work in the lab of the research units, in strict collaboration with the units’ teams and under the supervision of top-ranked researchers, targeting the highest scientific and publication standards."
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Paolo Tonella
   pic: 1
-  position: Lead Designer
+  position: Head of the school
   social:
     - title: twitter
       url: #
@@ -57,8 +56,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Via Sommarive 18
+  - line: 38122 Povo(TN) Italy
 
 # Build settings
 markdown: kramdown
