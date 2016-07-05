@@ -1,30 +1,24 @@
-Agency Jekyll theme
+PhD FBK students
 ====================
-
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+based on Agency theme  [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
 
 # How to use
 
-###Portfolio 
+###Students
 
-Portfolio projects are in '/_posts'
+All the students profiles are in '/_posts'
 
-Images are in '/img/portfolio'
+Images are in '/img/students'
 
 ###About
 
 Images are in '/img/about/'
 
-###Team
+###Alumni
 
-Team members and info are in '_config.yml'
+Alumni and info are in '_config.yml'
 
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+Images are in '/img/alumni/'
 
 =========
 For more details, read [documentation](http://jekyllrb.com/)
