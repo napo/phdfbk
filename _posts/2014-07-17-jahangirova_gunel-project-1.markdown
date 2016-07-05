@@ -1,11 +1,11 @@
 ---
-title: Vergne Matthieu Dominique Patrick 
-subtitle: Expert Finding for Requirements Engineering
+title: Jahangirova Gunel 
+subtitle: The Oracle Problem in Software Testing
 layout: default
 modal-id: 1 
 date: 2014-07-16
-img: vergne.jpg 
-thumbnail: vergne.jpg
+img: gunel_jahangirova.png
+thumbnail: gunel_jahangirova.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
