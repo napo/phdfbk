@@ -4,8 +4,8 @@ subtitle: The Oracle Problem in Software Testing
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: gunel_jahangirova.png 
+thumbnail: gunel_jahangirova.png 
 alt: image-alt
 project-date: April 2014
 client: software engineering, software testing, oracle problem 
