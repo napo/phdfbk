@@ -2,7 +2,7 @@
 title: Vergne Matthieu Dominique Patrick 
 subtitle: Expert Finding for Requirements Engineering
 layout: default
-modal-id: 1 
+modal-id: 7 
 date: 2014-07-16
 img: vergne.jpg 
 thumbnail: vergne.jpg
