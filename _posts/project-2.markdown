@@ -1,5 +1,5 @@
 ---
-title: Vergne Matthieu Dominique Patrick 
+title: CASA Matthieu Dominique Patrick 
 subtitle: Expert Finding for Requirements Engineering
 layout: default
 modal-id: 7 
