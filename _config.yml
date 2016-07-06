@@ -8,7 +8,7 @@ description: "FBK-ICT offers a unique stimulating and exciting environment to it
 
 # Team names, titles and social links
 people:
-- name: Paolo Tonella
+- name: Paramita Paramita 
   pic: 1
   position: Head of the school
   social:
@@ -44,15 +44,9 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/FBKCom
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/Fondazione-Bruno-Kessler-1496585593901109/
 
 # Postal address (add as many lines as necessary)
 address:
