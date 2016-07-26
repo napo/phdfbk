@@ -1,14 +1,15 @@
 ---
-title: Universita degli studi Di Padova
-subtitle: Information Engineering
+title: Jahangirova Gunel 
+subtitle: The Oracle Problem in Software Testing
 layout: default
-modal-id: 3
+modal-id: 1 
 date: 2014-07-16
-img: unipd.jpg 
-thumbnail: unipd_thumb.jpg
+img: gunel_jahangirova.png
+thumbnail: gunel_jahangirova_thumb.png
 alt: image-alt
+project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Strong partnership in particular with the Department of Information Engineering 
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
