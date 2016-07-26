@@ -1,16 +1,14 @@
 ---
 title: Universita degli studi Di Trento
-topic: Expert Finding for Requirements Engineering
-department: http://www.disi.unitn.it/
-reference:  fabio.casati@unitn.it
+subtitle: Expert Finding for Requirements Engineering
 layout: affiliated
-modal-id: 64
+modal-id: 4
 date: 2014-07-16
 img: unitn.jpg 
 thumbnail: unitn_thumb.jpg
 alt: image-alt
 client: Start Bootstrap
-category: affiliated_university
+category: Web Development
 description: Strong partnership in particular with the Department of Information Engineering and Computer Science (DISI)
 
 ---
