@@ -1,5 +1,5 @@
 ---
-title: Universita' degli studi Di Padova
+title: Universita degli studi Di Padova
 topic: Information Engineering
 department: http://www.unipd.it/international-highlights/node/81
 reference:  fabio.casati@unitn.it

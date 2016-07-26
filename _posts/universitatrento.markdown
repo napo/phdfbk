@@ -1,5 +1,5 @@
 ---
-title: Universita' degli studi Di Trento
+title: Universita degli studi Di Trento
 topic: Expert Finding for Requirements Engineering
 department: http://www.disi.unitn.it/
 reference:  fabio.casati@unitn.it
