@@ -3,7 +3,7 @@ title: Universita' degli studi Di Padova
 topic: Information Engineering
 department: http://www.unipd.it/international-highlights/node/81
 reference:  fabio.casati@unitn.it
-layout: affiliated
+layout: default
 modal-id: 2
 date: 2014-07-16
 img: unipd.jpg 

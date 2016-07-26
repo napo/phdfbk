@@ -1,5 +1,6 @@
 url: https://gaetanocalabrese.github.io
 baseurl: /phdfbk/
+permalink: /:categories/:title.
 
 # Site settings
 title: Become a PhD student in FBK 
