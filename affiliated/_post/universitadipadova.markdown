@@ -1,7 +1,7 @@
 ---
 title: Universita degli studi Di Padova
 subtitle: Information Engineering
-layout: affiliated
+layout: default
 modal-id: 3
 date: 2014-07-16
 img: unipd.jpg 
