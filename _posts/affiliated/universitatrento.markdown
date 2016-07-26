@@ -4,7 +4,7 @@ topic: Expert Finding for Requirements Engineering
 department: http://www.disi.unitn.it/
 reference:  fabio.casati@unitn.it
 layout: affiliated
-modal-id: 1
+modal-id: 64
 date: 2014-07-16
 img: unitn.jpg 
 thumbnail: unitn.jpg
