@@ -7,7 +7,7 @@ layout: affiliated
 modal-id: 63
 date: 2014-07-16
 img: unipd.jpg 
-thumbnail: unipd.jpg
+thumbnail: unipd_thumb.jpg
 alt: image-alt
 client: Start Bootstrap
 category: affiliated_university
