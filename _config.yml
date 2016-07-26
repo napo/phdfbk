@@ -1,7 +1,7 @@
 url: https://gaetanocalabrese.github.io
 baseurl: /phdfbk/
 #permalink: /:categories/:affiliated
-relative_permalinks: false
+#relative_permalinks: false
 # Site settings
 title: Become a PhD student in FBK 
 email: napo@fbk.eu
