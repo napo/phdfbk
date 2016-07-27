@@ -2,10 +2,10 @@
 title: Universita degli studi Di Trento
 subtitle: Expert Finding for Requirements Engineering
 layout: affiliated
-modal-id: 4
+modal-id: 3
 date: 2014-07-16
-img: unitn.jpg 
-thumbnail: unitn_thumb.jpg
+img: universitatrento.jpg 
+thumbnail: universitatrento_thumb.jpg
 alt: image-alt
 client: Start Bootstrap
 category: Web Development
