@@ -1,4 +1,5 @@
 ---
+title: Nguyen Duy Cu
 name: Nguyen Duy Cu
 university: University of Trento
 advisor: Tonella Paolo
