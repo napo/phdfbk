@@ -2,7 +2,7 @@
 title: Universita degli studi Di Trento
 subtitle: Expert Finding for Requirements Engineering
 layout: affiliated
-modal-id: 3
+modal-id: aff2
 date: 2014-07-16
 img: universitatrento.jpg 
 thumbnail: universitatrento_thumb.jpg
