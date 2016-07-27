@@ -3,7 +3,7 @@ title: Universita degli studi Di Padova
 subtitle: Information Engineering
 layout: default
 modal-id: 2
-date: 2014-07-16
+date: 2014-07-17
 img: universtitapadova.jpg 
 thumbnail: universtitapadova_thumb.jpg
 alt: image-alt
