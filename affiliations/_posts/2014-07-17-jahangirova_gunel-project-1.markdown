@@ -4,8 +4,8 @@ subtitle: The Oracle Problem in Software Testing
 layout: default
 modal-id: 1 
 date: 2014-07-16
-img: gunel_jahangirova.png
-thumbnail: gunel_jahangirova_thumb.png
+img: unipd.jpg
+thumbnail: unipd_thumb.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
