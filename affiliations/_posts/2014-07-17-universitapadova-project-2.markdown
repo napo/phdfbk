@@ -6,7 +6,7 @@ modal-id: aff1
 date: 2014-07-17
 img: universtitapadova.jpg 
 thumbnail: universtitapadova_thumb.jpg
-alt: image-alt
+alt: universtitapadova.jpg
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
