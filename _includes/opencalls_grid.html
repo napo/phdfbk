@@ -7,9 +7,9 @@
                     <h3 class="section-subheading text-muted">PhD at FBK</h3>
                 </div>
             </div>
-            <div class="row">
+          
             {% for post in site.tags['call_uni'] %}
-                <div >
+                
                    
                     <div class="portfolio-caption">
                         <h4>{{ post.title }}</h4>
@@ -18,8 +18,10 @@
                        Number of positions: {{ post.number_of_positions }}<br>
                        Website: {{ post.website }}</p>
                     </div>
-                    {% for call in site.tags[post.subtag] %}
-                       <div class="col-md-3 col-sm-6 portfolio-item">
+                    {% for call in site.tags[post.subtag] %
+  
+                      <div class="col-md-3 col-sm-6 portfolio-item">
+  
                          <div class="portfolio-caption">
                            <h4>{{ call.title }}</h4>
                            URL:  {{ call.url }}
@@ -30,9 +32,9 @@
                         </div>
                     {% endfor %}
                     
-                </div>
+              
             {% endfor %}
-            </div>
+         
            
             
             
