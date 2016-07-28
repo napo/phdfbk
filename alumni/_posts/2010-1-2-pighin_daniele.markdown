@@ -1,5 +1,5 @@
 ---
-name: Phighin Daniele
+name: Phighin Daniele2
 layout: default
 university: University of Trento
 advisor: Lavelli Alberto
