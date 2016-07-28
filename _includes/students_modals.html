@@ -15,18 +15,19 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/students/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
+                             <p>{{ post.description }}</p>
+                            <p>Advisor:{{ post.advisor }}</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                <li>Website:
+                                    <strong><a href="{{post.website}}">{{ post.website }}</a>
                                     </strong>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                <li>Keywords:
+                                    <strong>{{ post.keywords }}
                                     </strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                <li>University:
+                                    <strong>{{ post.university }}
                                     </strong>
                                 </li>
                             </ul>
