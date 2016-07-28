@@ -8,7 +8,7 @@
                 </div>
             </div>
             <div class="row">
-            {% for post in site.tags[call_uni_genova] %}
+            {% for post in site.tags['call_uni'] %}
                 <div class="col-md-2 col-sm-6 portfolio-item">
                    
                     <div class="portfolio-caption">
@@ -34,20 +34,7 @@
                 </div>
             {% endfor %}
             </div>
-             <div class="row">
-            {% for post in site.tags[call_uni_trento] %}
-                <div class="col-md-2 col-sm-6 portfolio-item">
-                   
-                    <div class="portfolio-caption">
-                        <h4>{{ post.title }}</h4>
-                            {{ post.topic }}
-                       <p> Topic: {{ post.topic }}<br>
-                       Number of positions: {{ post.number_of_positions }}<br>
-                       Website: {{ post.website }}</p>
-                    </div>
-                </div>
-            {% endfor %}
-            </div>
+           
             
             
         </div>
