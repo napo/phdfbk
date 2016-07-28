@@ -2,6 +2,6 @@
 title: Automated verification of critical systems       
 url:
 advisor: Alessandro Cimatti 
-tag: call_trento
+tag: uni_trento_call
 
 ---
