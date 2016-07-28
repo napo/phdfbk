@@ -1,5 +1,5 @@
 ---
-title: Join call with Universty of Trento
+title: Join call with University of Trento
 layout: default
 topic: Information and Communication Technologies
 number_of_positions: 3

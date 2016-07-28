@@ -1,6 +1,6 @@
 ---
 
-title: Join call with Universty of Genova
+title: Join call with University of Genova
 layout: default
 Topic: Computer Science and Systems Engineer
 Number of positions: 4
