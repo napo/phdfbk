@@ -9,6 +9,7 @@
             </div>
                           
             {% for post in site.tags['call_uni'] %}
+            <div>
               <div class="row text-center">  
                    
                     <div class="portfolio-caption">
@@ -17,6 +18,7 @@
                        <p> Topic: {{ post.topic }}<br>
                        Number of positions: {{ post.number_of_positions }}<br>
                        Website: {{ post.website }}</p>
+                    </div>
                     </div>
                     {% for call in site.tags[post.subtag] %}
   
@@ -32,9 +34,13 @@
                         </div>
                     {% endfor %}
                     
-               </div>
+              
            
             {% endfor %}
+            <div class="row text-center"> 
+            Closing Date: {{post.closing_date}} 
+             </div>
+            </div>
               
             
             
