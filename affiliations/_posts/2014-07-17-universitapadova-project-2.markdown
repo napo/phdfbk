@@ -8,8 +8,7 @@ img: universitapadova.jpg
 thumbnail: universitapadova_thumb.jpg
 alt: universtitapadova.jpg
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+
 description: Strong partnership in particular with the Department of Information Engineering 
 
 ---

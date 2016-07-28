@@ -8,8 +8,7 @@ img: universitatrento.jpg
 thumbnail: universitatrento_thumb.jpg
 alt: universitatrento.jpg
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+
 description: Strong partnership in particular with the Department of Information Engineering and Computer Science (DISI)
 
 ---
