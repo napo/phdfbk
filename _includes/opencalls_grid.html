@@ -9,7 +9,7 @@
             </div>
             <div class="row">
             {% for post in site.tags['call_uni'] %}
-                <div class="col-md-1 col-sm-6 portfolio-item">
+                <div >
                    
                     <div class="portfolio-caption">
                         <h4>{{ post.title }}</h4>
@@ -19,17 +19,16 @@
                        Website: {{ post.website }}</p>
                     </div>
                     {% for call in site.tags[post.subtag] %}
-                      <div class="col-md-3 col-sm-6 portfolio-item">
-                   
-                    <div class="portfolio-caption">
-                        <h4>{{ call.title }}</h4>
-                          URL:  {{ call.url }}
-                       <p> Advisor: {{ call.advisor }}<br>
+                       <div class="col-md-3 col-sm-6 portfolio-item">
+                         <div class="portfolio-caption">
+                           <h4>{{ call.title }}</h4>
+                           URL:  {{ call.url }}
+                            <p> Advisor: {{ call.advisor }}<br>
                       
-                      </p>
-                    </div>
-                </div>
-            {% endfor %}
+                            </p>
+                         </div>
+                        </div>
+                    {% endfor %}
                     
                 </div>
             {% endfor %}
