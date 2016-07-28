@@ -6,6 +6,6 @@ number_of_positions: 4
 website: http://phd.dibris.unige.it/csse/
 Closing date : 10 June 2016
 tag: call_uni
-subtag:uni_genova_call
+subtag: uni_genova_call
 
 ---
