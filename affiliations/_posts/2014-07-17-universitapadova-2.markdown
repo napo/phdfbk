@@ -10,6 +10,6 @@ alt: Universtita padova
 description: Strong partnership in particular with the Department of Information Engineering 
 website: 
 department: unipd_department
-
+reference_person: Alvise De Tassis
 
 ---
