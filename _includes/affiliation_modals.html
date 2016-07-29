@@ -21,10 +21,10 @@
                             {% for department in site.tags[post.department] %}
                                 
                                     <strong><a href="{{department.website}}">{{ department.title }}</a>
-                                    </strong
+                                    </strong><br>
                                     <strong>Reference person: {{ department.reference_person }}
                                     </strong>
-                                
+                                        <br>
                               {% endfor %} 
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
