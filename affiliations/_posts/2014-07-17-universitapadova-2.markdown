@@ -8,7 +8,8 @@ img: universitapadova.jpg
 thumbnail: universitapadova_thumb.jpg
 alt: Universtita padova
 description: Strong partnership in particular with the Department of Information Engineering 
-website: 
+website:
+tag: network 
 department: unipd_department
 reference_person: Alvise De Tassis
 
