@@ -19,14 +19,12 @@
                             <ul class="item-details">
                             
                             {% for department in site.tags[post.department] %}
-                                <li>
+                                
                                     <strong><a href="{{department.website}}">{{ department.title }}</a>
+                                    </strong
+                                    <strong>Reference person: {{ department.reference_person }}
                                     </strong>
-                                </li>
-                                <li>
-                                    <strong>{{ department.reference_person }}
-                                    </strong>
-                                </li>
+                                
                               {% endfor %} 
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
