@@ -172,7 +172,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #111;
 }
 
 .navbar-default .navbar-brand {
@@ -230,7 +230,7 @@ fieldset[disabled] .btn-xl.active {
     color: #fff;
     background-color: #{{ site.data.template.color.secondary }};
 
-     background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    
 }  
 
 @media(min-width:768px) {
