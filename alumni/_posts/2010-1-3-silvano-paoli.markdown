@@ -1,5 +1,5 @@
 ---
-name: BPaoli Silvano3
+name: Paoli Silvano
 layout: default
 university: University of Trento
 advisor: Cesare Furlanello
