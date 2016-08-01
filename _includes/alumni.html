@@ -85,8 +85,11 @@
                 </div>
             </div>
             <div class="row">
-         
-            {% for post in site.categories.alumni %}
+                         {% assign sorted = (site.categories.alumni | sort: 'year','name') | reverse %}
+                 {% for post in sorted %}
+     
+     
+           <!-- {% for post in site.categories.alumni %} -->
                 <div class="col-md-4 col-sm-6 portfolio-item">      
                    
                     <div class="portfolio-caption">
