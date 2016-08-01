@@ -86,7 +86,7 @@
             </div>
             <div class="row">
                          
-                {% assign sorted = site.categories.alumni | sort: 'year' %}
+                {% assign sorted = site.categories.alumni | sort: 'year','name' %}
                  {% for post in sorted %}
      
      
