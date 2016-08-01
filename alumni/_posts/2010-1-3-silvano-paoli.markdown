@@ -1,7 +1,7 @@
 ---
-name: Paoli Silvano3
+name: BPaoli Silvano3
 layout: default
-university: University of Trenot
+university: University of Trento
 advisor: Cesare Furlanello
 year: 2010
 title:  	A high performance computational environment for UHTS studies
