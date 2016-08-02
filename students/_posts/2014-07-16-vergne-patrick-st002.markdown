@@ -1,5 +1,5 @@
 ---
-title: Matthieu Dominique Patrick Vergne  
+ 
 subtitle: Expert Finding for Requirements Engineering
 layout: default
 modal-id: st002
