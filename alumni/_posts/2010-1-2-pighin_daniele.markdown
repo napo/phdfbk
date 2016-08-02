@@ -1,6 +1,5 @@
 ---
 name: Daniele
-title: Pighin Daniele
 surname: Pighin 
 layout: default
 university: University of Trento

@@ -1,5 +1,4 @@
 ---
-title: Ajelli Marco
 layout: default
 name: Marco
 surname: Ajelli
