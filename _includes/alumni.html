@@ -88,8 +88,9 @@
                          
                 {% assign items_grouped = (site.categories.alumni | group_by: 'year'| sort: 'year')  %}
              {% for group in items_grouped %} 
-                          {{ items_grouped.name}}
-              {% assign items = group.items | sort: 'surname'  %}  
+                          
+              {% assign items = group.items | sort: 'surname'  %}
+               <h5>{{ items.name}}</h5>  
                  {% for post in items %}
      
      
