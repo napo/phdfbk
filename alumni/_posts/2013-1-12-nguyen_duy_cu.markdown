@@ -1,6 +1,6 @@
 ---
 name: Cu  
-surnme: Nguyen Duy
+surname: Nguyen Duy
 university: University of Trento
 advisor: Tonella Paolo
 year: 2008
