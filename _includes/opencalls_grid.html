@@ -23,7 +23,7 @@
                     
                     {% for call in site.tags[post.subtag] %}
   
-                      <div  style="background:#EBF5FB;border:1px dotted black;text-align:center">
+                      <div class="col-md-4 col-sm-6 portfolio-item" style="background:#EBF5FB;border:1px dotted black;text-align:center">
   
                          <div class="portfolio-caption">
                            <h4>{{ call.title }}</h4>
@@ -34,8 +34,8 @@
                          </div>
                       </div>
                     {% endfor %}
-                  </div>        
-            
+                         
+                   </div>
                    
             {% endfor %}
             
