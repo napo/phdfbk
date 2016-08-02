@@ -1,5 +1,5 @@
 ---
-layout: county 
+layout: default 
 cid: 01-01-14-Magnolini-Simone
 surname: Magnolini
 name: Simone

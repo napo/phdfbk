@@ -1,5 +1,5 @@
 ---
-layout: county 
+layout: default 
 cid: 01-11-14-Pedrielli-Andrea
 surname: Pedrielli
 name: Andrea

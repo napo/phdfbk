@@ -1,5 +1,5 @@
 ---
-layout: county 
+layout: default 
 cid: 01-06-13-Menini-Stefano
 surname: Menini
 name: Stefano

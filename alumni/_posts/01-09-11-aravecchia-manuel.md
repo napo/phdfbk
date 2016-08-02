@@ -1,5 +1,5 @@
 ---
-layout: county 
+layout: default 
 cid: 01-09-11-Aravecchia-Manuel
 surname: Aravecchia
 name: Manuel

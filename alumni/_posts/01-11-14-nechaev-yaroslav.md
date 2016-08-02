@@ -1,5 +1,5 @@
 ---
-layout: county 
+layout: default 
 cid: 01-11-14-Nechaev-Yaroslav
 surname: Nechaev
 name: Yaroslav

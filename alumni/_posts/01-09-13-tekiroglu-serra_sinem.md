@@ -1,5 +1,5 @@
 ---
-layout: county 
+layout: default 
 cid: 01-09-13-Tekiroglu-Serra Sinem
 surname: Tekiroglu
 name: Serra Sinem

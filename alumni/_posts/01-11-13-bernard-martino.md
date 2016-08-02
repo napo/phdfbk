@@ -1,5 +1,5 @@
 ---
-layout: county 
+layout: default 
 cid: 01-11-13-Bernard-Martino
 surname: Bernard
 name: Martino

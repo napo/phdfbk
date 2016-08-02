@@ -1,5 +1,5 @@
 ---
-layout: county 
+layout: default 
 cid: 01-09-12-Benozzo-Danilo
 surname: Benozzo
 name: Danilo

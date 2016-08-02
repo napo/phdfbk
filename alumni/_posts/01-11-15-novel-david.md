@@ -1,5 +1,5 @@
 ---
-layout: county 
+layout: default 
 cid: 01-11-15-Novel-David
 surname: Novel
 name: David
