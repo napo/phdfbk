@@ -86,7 +86,7 @@
             </div>
             <div class="row">
                          
-                {% assign sorted = site.categories.alumni | sort: 'year' | reverse %}
+                {% assign sorted = site.categories.alumni | sort: 'year','surname' | reverse %}
                  {% for post in sorted %}
      
      
@@ -95,7 +95,7 @@
                    
                     <div class="portfolio-caption">
                              {{ post.year }}
-                        <h5>{{ post.name }}</h5>
+                        <h5>{{ post.name }} {{ post.surname }}</h5>
                         <p class="text-muted">{{ post.title }}</p>
                         <p>Advisor: {{ post.advisor }}<br>
                            {{ post.university }}</p>
