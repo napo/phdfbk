@@ -86,9 +86,9 @@
             </div>
             <div class="row">
                          
-                {% assign items_grouped = (site.categories.alumni | group_by: 'year'| sort: 'surname')  %}
+                {% assign items_grouped = (site.categories.alumni | group_by: 'year'| sort: 'year')  %}
              {% for group in items_grouped %} 
-              {% assign items = group.items | sort: 'year'| reverse  %}  
+              {% assign items = group.items | sort: 'surname'  %}  
                  {% for post in items %}
      
      
