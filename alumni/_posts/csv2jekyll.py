@@ -41,6 +41,7 @@ for row_index, row in enumerate(datareader):
 			cell_heading = data_headings[cell_index].lower().replace(" ", "_").replace("-", "_").replace("%", "percent").replace("$", "").replace(",", "")
 			cell_text = cell_heading + ": " + cell.replace("\n", ", ") + "\n"
 
+  
 			# Add this line of text to the current YAML string.
 			yaml_text += cell_text
 
