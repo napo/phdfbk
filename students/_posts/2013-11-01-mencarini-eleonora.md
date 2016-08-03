@@ -4,7 +4,7 @@ id: 2013-11-01-Mencarini-Eleonora
 surname: Mencarini
 name: Eleonora
 university: Univ. Trento
-date: 01/11/2013
+date: 
 aboutme: 
 research_topic: 
 subtitle: 
