@@ -1,12 +1,18 @@
 ---
 layout: default 
-modal-id: st003
+id: 2016-01-01-Gomoluch-Pawel
 surname: Gomoluch
 name: Pawel
 university: Imperial College
-date: 2016-01-01
-unit: DAS
+date: 01/01/2016
+aboutme: 
+research_topic: 
 subtitle: 
 advisor: 
 keywords: 
+website: 
+img: gomoluch.jpg
+thumbnail: gomoluch_thumb.jpg
+alt: Gomoluch Pawel
+modal_id: stud1
 ---
