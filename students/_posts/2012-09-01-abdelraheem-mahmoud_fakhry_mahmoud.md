@@ -2,7 +2,7 @@
 layout: default 
 id: 2012-09-01-Abdelraheem-Mahmoud Fakhry Mahmoud
 surname: Abdelraheem
-name: Mahmoud Fakhry Mahmoud
+name: Mahmoud Fakhry
 university: Univ. Trento
 date: 01-09-2012
 aboutme: 
