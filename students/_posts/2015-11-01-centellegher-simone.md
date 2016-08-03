@@ -14,5 +14,5 @@ website:
 img: centellegher.jpg
 thumbnail: centellegher_thumb.jpg
 alt: Centellegher Simone
-modal_id: stud9
+modal-id: stud9
 ---

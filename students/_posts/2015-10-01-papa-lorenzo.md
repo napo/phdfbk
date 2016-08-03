@@ -14,5 +14,5 @@ website:
 img: papa.jpg
 thumbnail: papa_thumb.jpg
 alt: Papa Lorenzo
-modal_id: stud71
+modal-id: stud71
 ---

@@ -14,5 +14,5 @@ website:
 img: de nadai.jpg
 thumbnail: de nadai_thumb.jpg
 alt: De Nadai Marco
-modal_id: stud12
+modal-id: stud12
 ---

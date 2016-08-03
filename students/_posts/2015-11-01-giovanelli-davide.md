@@ -14,5 +14,5 @@ website:
 img: giovanelli.jpg
 thumbnail: giovanelli_thumb.jpg
 alt: Giovanelli Davide
-modal_id: stud24
+modal-id: stud24
 ---

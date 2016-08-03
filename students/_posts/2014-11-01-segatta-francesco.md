@@ -14,5 +14,5 @@ website:
 img: segatta.jpg
 thumbnail: segatta_thumb.jpg
 alt: Segatta Francesco
-modal_id: stud53
+modal-id: stud53
 ---

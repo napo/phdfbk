@@ -14,5 +14,5 @@ website:
 img: finnerty.jpg
 thumbnail: finnerty_thumb.jpg
 alt: Finnerty Ailbhe Noelle
-modal_id: stud17
+modal-id: stud17
 ---

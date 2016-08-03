@@ -14,5 +14,5 @@ website:
 img: tekiroglu.jpg
 thumbnail: tekiroglu_thumb.jpg
 alt: Tekiroglu Serra Sinem
-modal_id: stud59
+modal-id: stud59
 ---

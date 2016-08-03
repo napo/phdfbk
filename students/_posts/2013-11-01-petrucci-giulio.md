@@ -14,5 +14,5 @@ website:
 img: petrucci.jpg
 thumbnail: petrucci_thumb.jpg
 alt: Petrucci Giulio
-modal_id: stud46
+modal-id: stud46
 ---

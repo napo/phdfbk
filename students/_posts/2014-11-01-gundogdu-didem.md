@@ -14,5 +14,5 @@ website:
 img: gundogdu.jpg
 thumbnail: gundogdu_thumb.jpg
 alt: Gundogdu Didem
-modal_id: stud21
+modal-id: stud21
 ---

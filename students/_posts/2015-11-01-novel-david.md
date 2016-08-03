@@ -14,5 +14,5 @@ website:
 img: novel.jpg
 thumbnail: novel_thumb.jpg
 alt: Novel David
-modal_id: stud43
+modal-id: stud43
 ---

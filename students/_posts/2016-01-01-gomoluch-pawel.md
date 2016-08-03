@@ -14,5 +14,5 @@ website:
 img: gomoluch.jpg
 thumbnail: gomoluch_thumb.jpg
 alt: Gomoluch Pawel
-modal_id: stud1
+modal-id: stud1
 ---

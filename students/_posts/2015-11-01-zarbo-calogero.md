@@ -14,5 +14,5 @@ website:
 img: zarbo.jpg
 thumbnail: zarbo_thumb.jpg
 alt: Zarbo Calogero
-modal_id: stud68
+modal-id: stud68
 ---

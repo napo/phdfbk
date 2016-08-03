@@ -14,5 +14,5 @@ website:
 img: gaiardo.jpg
 thumbnail: gaiardo_thumb.jpg
 alt: Gaiardo Andrea
-modal_id: stud22
+modal-id: stud22
 ---

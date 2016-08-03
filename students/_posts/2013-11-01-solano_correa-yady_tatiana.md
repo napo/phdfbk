@@ -14,5 +14,5 @@ website:
 img: solano correa.jpg
 thumbnail: solano correa_thumb.jpg
 alt: Solano Correa Yady Tatiana
-modal_id: stud54
+modal-id: stud54
 ---

@@ -14,5 +14,5 @@ website:
 img: demissie.jpg
 thumbnail: demissie_thumb.jpg
 alt: Demissie Biniam Fisseha
-modal_id: stud11
+modal-id: stud11
 ---

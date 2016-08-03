@@ -14,5 +14,5 @@ website:
 img: sinigaglia.jpg
 thumbnail: sinigaglia_thumb.jpg
 alt: Sinigaglia Federico
-modal_id: stud55
+modal-id: stud55
 ---

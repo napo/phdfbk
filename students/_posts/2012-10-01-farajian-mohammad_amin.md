@@ -14,5 +14,5 @@ website:
 img: farajian.jpg
 thumbnail: farajian_thumb.jpg
 alt: Farajian Mohammad Amin
-modal_id: stud18
+modal-id: stud18
 ---

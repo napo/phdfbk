@@ -14,5 +14,5 @@ website:
 img: morales ramirez.jpg
 thumbnail: morales ramirez_thumb.jpg
 alt: Morales Ramirez Itzel
-modal_id: stud38
+modal-id: stud38
 ---

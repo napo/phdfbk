@@ -14,5 +14,5 @@ website:
 img: santini.jpg
 thumbnail: santini_thumb.jpg
 alt: Santini Gaia Cecilia
-modal_id: stud56
+modal-id: stud56
 ---

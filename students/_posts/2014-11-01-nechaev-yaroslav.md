@@ -14,5 +14,5 @@ website:
 img: nechaev.jpg
 thumbnail: nechaev_thumb.jpg
 alt: Nechaev Yaroslav
-modal_id: stud42
+modal-id: stud42
 ---

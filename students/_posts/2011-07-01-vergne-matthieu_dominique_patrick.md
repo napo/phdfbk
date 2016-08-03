@@ -14,5 +14,5 @@ website:
 img: vergne.jpg
 thumbnail: vergne_thumb.jpg
 alt: Vergne Matthieu Dominique Patrick
-modal_id: stud63
+modal-id: stud63
 ---

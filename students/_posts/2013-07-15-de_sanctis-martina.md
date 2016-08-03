@@ -14,5 +14,5 @@ website:
 img: de sanctis.jpg
 thumbnail: de sanctis_thumb.jpg
 alt: De Sanctis Martina
-modal_id: stud14
+modal-id: stud14
 ---

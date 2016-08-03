@@ -14,5 +14,5 @@ website:
 img: harikumar.jpg
 thumbnail: harikumar_thumb.jpg
 alt: Harikumar Aravind
-modal_id: stud25
+modal-id: stud25
 ---

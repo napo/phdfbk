@@ -14,5 +14,5 @@ website:
 img: feltracco.jpg
 thumbnail: feltracco_thumb.jpg
 alt: Feltracco Anna
-modal_id: stud16
+modal-id: stud16
 ---

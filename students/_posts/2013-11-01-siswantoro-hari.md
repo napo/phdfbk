@@ -14,5 +14,5 @@ website:
 img: siswantoro.jpg
 thumbnail: siswantoro_thumb.jpg
 alt: Siswantoro Hari
-modal_id: stud58
+modal-id: stud58
 ---

@@ -14,5 +14,5 @@ website:
 img: marziano.jpg
 thumbnail: marziano_thumb.jpg
 alt: Marziano Valentina
-modal_id: stud41
+modal-id: stud41
 ---

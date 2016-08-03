@@ -14,5 +14,5 @@ website:
 img: romaniuk.jpg
 thumbnail: romaniuk_thumb.jpg
 alt: Romaniuk Scott Nicholas
-modal_id: stud77
+modal-id: stud77
 ---

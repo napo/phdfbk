@@ -14,5 +14,5 @@ website:
 img: kifetew.jpg
 thumbnail: kifetew_thumb.jpg
 alt: Kifetew Fitsum Meshesha
-modal_id: stud27
+modal-id: stud27
 ---

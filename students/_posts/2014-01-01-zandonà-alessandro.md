@@ -14,5 +14,5 @@ website:
 img: zandonà.jpg
 thumbnail: zandonà_thumb.jpg
 alt: Zandonà Alessandro
-modal_id: stud66
+modal-id: stud66
 ---

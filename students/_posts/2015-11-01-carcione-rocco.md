@@ -14,5 +14,5 @@ website:
 img: carcione.jpg
 thumbnail: carcione_thumb.jpg
 alt: Carcione Rocco
-modal_id: stud72
+modal-id: stud72
 ---

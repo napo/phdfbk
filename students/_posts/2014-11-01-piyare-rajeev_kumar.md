@@ -14,5 +14,5 @@ website:
 img: piyare.jpg
 thumbnail: piyare_thumb.jpg
 alt: Piyare Rajeev Kumar
-modal_id: stud47
+modal-id: stud47
 ---

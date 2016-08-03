@@ -14,5 +14,5 @@ website:
 img: boselli.jpg
 thumbnail: boselli_thumb.jpg
 alt: Boselli Maddalena
-modal_id: stud5
+modal-id: stud5
 ---

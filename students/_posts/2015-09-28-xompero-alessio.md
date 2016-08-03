@@ -14,5 +14,5 @@ website:
 img: xompero.jpg
 thumbnail: xompero_thumb.jpg
 alt: Xompero Alessio
-modal_id: stud64
+modal-id: stud64
 ---

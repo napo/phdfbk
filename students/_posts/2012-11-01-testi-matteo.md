@@ -14,5 +14,5 @@ website:
 img: testi.jpg
 thumbnail: testi_thumb.jpg
 alt: Testi Matteo
-modal_id: stud62
+modal-id: stud62
 ---

@@ -14,5 +14,5 @@ website:
 img: rossi.jpg
 thumbnail: rossi_thumb.jpg
 alt: Rossi Alessandro
-modal_id: stud74
+modal-id: stud74
 ---

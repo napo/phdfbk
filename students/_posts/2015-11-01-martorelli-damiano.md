@@ -14,5 +14,5 @@ website:
 img: martorelli.jpg
 thumbnail: martorelli_thumb.jpg
 alt: Martorelli Damiano
-modal_id: stud40
+modal-id: stud40
 ---

@@ -14,5 +14,5 @@ website:
 img: ali.jpg
 thumbnail: ali_thumb.jpg
 alt: Ali Muhammad
-modal_id: stud32
+modal-id: stud32
 ---

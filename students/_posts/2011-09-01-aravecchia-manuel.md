@@ -14,5 +14,5 @@ website:
 img: aravecchia.jpg
 thumbnail: aravecchia_thumb.jpg
 alt: Aravecchia Manuel
-modal_id: stud49
+modal-id: stud49
 ---

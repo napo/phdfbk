@@ -14,5 +14,5 @@ website:
 img: benozzo.jpg
 thumbnail: benozzo_thumb.jpg
 alt: Benozzo Danilo
-modal_id: stud3
+modal-id: stud3
 ---

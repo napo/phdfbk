@@ -14,5 +14,5 @@ website:
 img: tryfou.jpg
 thumbnail: tryfou_thumb.jpg
 alt: Tryfou Georgia
-modal_id: stud61
+modal-id: stud61
 ---

@@ -14,5 +14,5 @@ website:
 img: capuano.jpg
 thumbnail: capuano_thumb.jpg
 alt: Capuano Andrea
-modal_id: stud10
+modal-id: stud10
 ---

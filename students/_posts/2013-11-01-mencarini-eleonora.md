@@ -14,5 +14,5 @@ website:
 img: mencarini.jpg
 thumbnail: mencarini_thumb.jpg
 alt: Mencarini Eleonora
-modal_id: stud36
+modal-id: stud36
 ---

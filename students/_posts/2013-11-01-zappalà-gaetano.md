@@ -14,5 +14,5 @@ website:
 img: zappalà.jpg
 thumbnail: zappalà_thumb.jpg
 alt: Zappalà Gaetano
-modal_id: stud67
+modal-id: stud67
 ---

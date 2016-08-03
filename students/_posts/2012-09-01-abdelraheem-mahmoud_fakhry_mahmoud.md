@@ -14,5 +14,5 @@ website:
 img: abdelraheem.jpg
 thumbnail: abdelraheem_thumb.jpg
 alt: Abdelraheem Mahmoud Fakhry Mahmoud
-modal_id: stud2
+modal-id: stud2
 ---

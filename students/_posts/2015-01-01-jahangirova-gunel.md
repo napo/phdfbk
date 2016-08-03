@@ -14,5 +14,5 @@ website:
 img: jahangirova.jpg
 thumbnail: jahangirova_thumb.jpg
 alt: Jahangirova Gunel
-modal_id: stud65
+modal-id: stud65
 ---

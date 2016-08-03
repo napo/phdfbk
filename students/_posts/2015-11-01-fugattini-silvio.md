@@ -14,5 +14,5 @@ website:
 img: fugattini.jpg
 thumbnail: fugattini_thumb.jpg
 alt: Fugattini Silvio
-modal_id: stud76
+modal-id: stud76
 ---

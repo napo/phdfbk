@@ -14,5 +14,5 @@ website:
 img: hellmuth.jpg
 thumbnail: hellmuth_thumb.jpg
 alt: Hellmuth Kerry Ellen
-modal_id: stud75
+modal-id: stud75
 ---

@@ -14,5 +14,5 @@ website:
 img: ali.jpg
 thumbnail: ali_thumb.jpg
 alt: Ali Muhaddisa Barat
-modal_id: stud31
+modal-id: stud31
 ---

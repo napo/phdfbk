@@ -14,5 +14,5 @@ website:
 img: ataman.jpg
 thumbnail: ataman_thumb.jpg
 alt: Ataman Duygu
-modal_id: stud60
+modal-id: stud60
 ---

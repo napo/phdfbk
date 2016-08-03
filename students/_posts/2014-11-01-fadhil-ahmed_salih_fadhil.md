@@ -14,5 +14,5 @@ website:
 img: fadhil.jpg
 thumbnail: fadhil_thumb.jpg
 alt: Fadhil Ahmed Salih Fadhil
-modal_id: stud15
+modal-id: stud15
 ---

@@ -14,5 +14,5 @@ website:
 img: sudhakaran.jpg
 thumbnail: sudhakaran_thumb.jpg
 alt: Sudhakaran Swathikiran
-modal_id: stud52
+modal-id: stud52
 ---

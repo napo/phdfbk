@@ -14,5 +14,5 @@ website:
 img: bernard.jpg
 thumbnail: bernard_thumb.jpg
 alt: Bernard Martino
-modal_id: stud4
+modal-id: stud4
 ---

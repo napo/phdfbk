@@ -14,5 +14,5 @@ website:
 img: khatib.jpg
 thumbnail: khatib_thumb.jpg
 alt: Khatib Moustafa Ahmed Soliman
-modal_id: stud29
+modal-id: stud29
 ---

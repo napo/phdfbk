@@ -14,5 +14,5 @@ website:
 img: chatterjee.jpg
 thumbnail: chatterjee_thumb.jpg
 alt: Chatterjee Rajen
-modal_id: stud8
+modal-id: stud8
 ---

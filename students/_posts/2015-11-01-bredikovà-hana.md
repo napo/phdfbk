@@ -14,5 +14,5 @@ website:
 img: bredikovà.jpg
 thumbnail: bredikovà_thumb.jpg
 alt: Bredikovà Hana
-modal_id: stud78
+modal-id: stud78
 ---

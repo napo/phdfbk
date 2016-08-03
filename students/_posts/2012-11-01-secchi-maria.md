@@ -14,5 +14,5 @@ website:
 img: secchi.jpg
 thumbnail: secchi_thumb.jpg
 alt: Secchi Maria
-modal_id: stud51
+modal-id: stud51
 ---

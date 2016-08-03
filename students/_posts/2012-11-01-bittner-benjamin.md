@@ -14,5 +14,5 @@ website:
 img: bittner.jpg
 thumbnail: bittner_thumb.jpg
 alt: Bittner Benjamin
-modal_id: stud7
+modal-id: stud7
 ---

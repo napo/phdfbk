@@ -14,5 +14,5 @@ website:
 img: morresi.jpg
 thumbnail: morresi_thumb.jpg
 alt: Morresi Tommaso
-modal_id: stud39
+modal-id: stud39
 ---

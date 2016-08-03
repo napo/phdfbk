@@ -14,5 +14,5 @@ website:
 img: gatti.jpg
 thumbnail: gatti_thumb.jpg
 alt: Gatti Lorenzo
-modal_id: stud23
+modal-id: stud23
 ---

@@ -14,5 +14,5 @@ website:
 img: sessa.jpg
 thumbnail: sessa_thumb.jpg
 alt: Sessa Mirko
-modal_id: stud57
+modal-id: stud57
 ---

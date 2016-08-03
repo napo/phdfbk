@@ -14,5 +14,5 @@ website:
 img: azzolini.jpg
 thumbnail: azzolini_thumb.jpg
 alt: Azzolini Martina
-modal_id: stud69
+modal-id: stud69
 ---

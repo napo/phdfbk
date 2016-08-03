@@ -14,5 +14,5 @@ website:
 img: kalinina.jpg
 thumbnail: kalinina_thumb.jpg
 alt: Kalinina Elena
-modal_id: stud30
+modal-id: stud30
 ---

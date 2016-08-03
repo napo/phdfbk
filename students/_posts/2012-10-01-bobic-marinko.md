@@ -14,5 +14,5 @@ website:
 img: bobic.jpg
 thumbnail: bobic_thumb.jpg
 alt: Bobic Marinko
-modal_id: stud70
+modal-id: stud70
 ---

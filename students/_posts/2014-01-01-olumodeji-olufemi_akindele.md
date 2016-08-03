@@ -14,5 +14,5 @@ website:
 img: olumodeji.jpg
 thumbnail: olumodeji_thumb.jpg
 alt: Olumodeji Olufemi Akindele
-modal_id: stud33
+modal-id: stud33
 ---

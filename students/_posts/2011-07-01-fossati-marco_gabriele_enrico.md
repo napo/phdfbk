@@ -14,5 +14,5 @@ website:
 img: fossati.jpg
 thumbnail: fossati_thumb.jpg
 alt: Fossati Marco Gabriele Enrico
-modal_id: stud19
+modal-id: stud19
 ---

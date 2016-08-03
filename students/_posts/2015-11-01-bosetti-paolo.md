@@ -14,5 +14,5 @@ website:
 img: bosetti.jpg
 thumbnail: bosetti_thumb.jpg
 alt: Bosetti Paolo
-modal_id: stud6
+modal-id: stud6
 ---

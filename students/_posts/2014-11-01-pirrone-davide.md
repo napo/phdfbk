@@ -14,5 +14,5 @@ website:
 img: pirrone.jpg
 thumbnail: pirrone_thumb.jpg
 alt: Pirrone Davide
-modal_id: stud45
+modal-id: stud45
 ---

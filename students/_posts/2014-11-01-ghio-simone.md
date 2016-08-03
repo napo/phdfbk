@@ -14,5 +14,5 @@ website:
 img: ghio.jpg
 thumbnail: ghio_thumb.jpg
 alt: Ghio Simone
-modal_id: stud20
+modal-id: stud20
 ---

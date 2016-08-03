@@ -14,5 +14,5 @@ website:
 img: ruiz.jpg
 thumbnail: ruiz_thumb.jpg
 alt: Ruiz Nicholas
-modal_id: stud50
+modal-id: stud50
 ---

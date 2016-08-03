@@ -14,5 +14,5 @@ website:
 img: rusci.jpg
 thumbnail: rusci_thumb.jpg
 alt: Rusci Manuele
-modal_id: stud48
+modal-id: stud48
 ---

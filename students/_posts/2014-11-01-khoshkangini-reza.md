@@ -14,5 +14,5 @@ website:
 img: khoshkangini.jpg
 thumbnail: khoshkangini_thumb.jpg
 alt: Khoshkangini Reza
-modal_id: stud28
+modal-id: stud28
 ---

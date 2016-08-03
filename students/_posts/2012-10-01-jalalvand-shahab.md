@@ -14,5 +14,5 @@ website:
 img: jalalvand.jpg
 thumbnail: jalalvand_thumb.jpg
 alt: Jalalvand Shahab
-modal_id: stud26
+modal-id: stud26
 ---

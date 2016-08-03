@@ -14,5 +14,5 @@ website:
 img: menini.jpg
 thumbnail: menini_thumb.jpg
 alt: Menini Stefano
-modal_id: stud37
+modal-id: stud37
 ---

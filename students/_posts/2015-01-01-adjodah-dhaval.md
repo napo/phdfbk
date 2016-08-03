@@ -14,5 +14,5 @@ website:
 img: adjodah.jpg
 thumbnail: adjodah_thumb.jpg
 alt: Adjodah Dhaval
-modal_id: stud73
+modal-id: stud73
 ---
