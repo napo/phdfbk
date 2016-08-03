@@ -4,7 +4,6 @@ id: 2013-09-01-Donadello-Ivan
 surname: Donadello
 name: Ivan
 university: Univ. Trento
-date: 01-09-2013
 aboutme: 
 research_topic: 
 subtitle: 
