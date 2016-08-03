@@ -39,7 +39,7 @@ for row_index, row in enumerate(datareader):
 			# Heading text is converted to lowercase. Spaces are converted to underscores and hyphens are removed.
 			# In the cell text, line endings are replaced with commas.
 			cell_heading = data_headings[cell_index].lower().replace(" ", "_").replace("%", "percent").replace("$", "").replace(",", "")
-			cell_text = cell_heading + ": " + cell.replace("\n", ", ") + "\n"
+			cell_text = cell_heading + ": " + cell.replace("\n", ", ").replace("/","-") + "\n"
 
   
 			# Add this line of text to the current YAML string.
