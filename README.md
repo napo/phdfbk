@@ -54,6 +54,7 @@ tag: uni_trento_call
   all the files are in affiliations/_posts
   images in img/affiliation
 
+  the tag: network is mandatory
   for each university there could be more than one department.
   the field 'department' contains the tag that identify the dipartments
     department: unipd_department
