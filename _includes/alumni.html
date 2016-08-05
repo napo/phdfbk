@@ -84,18 +84,16 @@
                     <h3 class="section-subheading text-muted">Former PhD students</h3>
                 </div>
             </div>
-            
+            <div class="row">
                          
                 {% assign items_grouped = (site.categories.alumni | group_by: 'year'| sort: 'year')  %}
-             {% for group in items_grouped %} 
-             <div class="row">
+             {% for group in items_grouped %}   
                                   <h4 >{{ group.name}}</h4>
-                  </div>                
               {% assign items = group.items | sort: 'surname'  %}
                  
                  {% for post in items %}
      
-               <div class="row">
+    
          
                 <div class="col-md-4 col-sm-6 portfolio-item">      
                    
@@ -109,9 +107,8 @@
                         
                     </div>
                 </div>
-                 </div>
             {% endfor %}
              {% endfor %}
-           
+            </div>
         </div>
     </section>
