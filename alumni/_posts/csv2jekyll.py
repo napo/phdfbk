@@ -6,7 +6,7 @@
 import csv
 
 # Open our data file in read-mode.
-csvfile = open('data.csv', 'r')
+csvfile = open('alumni.csv', 'r')
 
 # Save a CSV Reader object.
 datareader = csv.reader(csvfile, delimiter=';', quotechar='"')

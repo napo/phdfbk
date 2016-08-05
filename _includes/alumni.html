@@ -87,13 +87,13 @@
             <div class="row">
                          
                 {% assign items_grouped = (site.categories.alumni | group_by: 'year'| sort: 'year')  %}
-             {% for group in items_grouped %} 
-                                  <h5>{{ group.name}}</h5>
+             {% for group in items_grouped %}   
+                                  <h4 >{{ group.name}}</h4>
               {% assign items = group.items | sort: 'surname'  %}
                  
                  {% for post in items %}
      
-     
+    
          
                 <div class="col-md-4 col-sm-6 portfolio-item">      
                    

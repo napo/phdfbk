@@ -57,3 +57,4 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+encoding: utf-8

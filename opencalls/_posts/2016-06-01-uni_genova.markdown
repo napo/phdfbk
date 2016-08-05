@@ -1,6 +1,6 @@
 ---
 
-title: Join call with University of Genova
+title: Joint call with University of Genova
 layout: default
 topic: Computer Science and Systems Engineer
 number_of_positions: 4
