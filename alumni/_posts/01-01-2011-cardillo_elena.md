@@ -1,9 +1,0 @@
----
-layout: default 
-id: 01-01-2011-Cardillo Elena
-name: Cardillo Elena
-university: University of Trento
-advisor: Serafini Luciano
-year: 2011
-title: A lexi-ontological resource for consumer healthcare
----
