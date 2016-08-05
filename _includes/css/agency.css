@@ -668,7 +668,7 @@ section#postcard {
     background-repeat: no-repeat;
 }
 section#contact .section-heading {
-    color: #fff;
+  /*  color: #fff; */
 }
 
 section#contact .form-group {
