@@ -6,5 +6,5 @@ surname: Abebe
 university: University of Trento
 advisor: Tonella Paolo
 year: 2012
-title: Supporting Concept Extraction and Identifier Quality Improvement through Programmers’ Lexicon Analysis
+title: Supporting Concept Extraction and Identifier Quality Improvement through Programmersâ€™ Lexicon Analysis
 ---
