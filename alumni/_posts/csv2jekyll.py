@@ -9,7 +9,7 @@ import csv
 csvfile = open('alumni.csv', 'r')
 
 # Save a CSV Reader object.
-datareader = csv.reader(csvfile, delimiter=',', quotechar='"')
+datareader = csv.reader(csvfile, delimiter=';', quotechar='"')
 
 # Empty array for data headings, which we will fill with the first row from our CSV.
 data_headings = []
