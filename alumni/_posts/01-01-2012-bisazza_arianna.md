@@ -1,0 +1,9 @@
+---
+layout: default 
+id: 01-01-2012-Bisazza Arianna
+name: Bisazza Arianna
+university: University of Trento
+advisor: Federico Marcello
+year: 2012
+title: Linguistical motivated recordering modlling for phrase-based stastical machine translation
+---

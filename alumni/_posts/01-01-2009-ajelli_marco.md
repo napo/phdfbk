@@ -1,0 +1,9 @@
+---
+layout: default 
+id: 01-01-2009-Ajelli Marco
+name: Ajelli Marco
+university: University of Trento
+advisor: Merler Stefano
+year: 2009
+title: New–generation individual based models for infectious diseases transmission
+---
